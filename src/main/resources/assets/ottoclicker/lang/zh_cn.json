@@ -1,0 +1,9 @@
+{
+  "key.categories.ottoclicker": "Otto Clicker",
+  "key.ottoclicker.toggle": "开关",
+  "key.ottoclicker.delay": "滚动设置延时",
+
+  "ottoclicker.message.on": "Otto Clicker [on]",
+  "ottoclicker.message.off": "Otto Clicker [off]",
+  "ottoclicker.message.speed": "点击延时[1, 100]: %d"
+}

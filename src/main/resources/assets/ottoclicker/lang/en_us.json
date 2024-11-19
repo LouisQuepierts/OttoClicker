@@ -1,0 +1,9 @@
+{
+  "key.categories.ottoclicker": "Otto Clicker",
+  "key.ottoclicker.toggle": "Toggle clicker",
+  "key.ottoclicker.delay": "Set click delay when scrolling wheel",
+
+  "ottoclicker.message.on": "Otto Clicker [on]",
+  "ottoclicker.message.off": "Otto Clicker [off]",
+  "ottoclicker.message.speed": "Click Delay[1, 100]: %d"
+}
